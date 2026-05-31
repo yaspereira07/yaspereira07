@@ -21,6 +21,6 @@
 
 ### 💻 Entre em contato comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin-in&logoColor=440FF5)]([https://www.linkedin.com/in/afonso-silva-dev](https://www.linkedin.com/in/yasmin-pereira-b4965b270/?skipRedirect=true))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin-in&logoColor=440FF5)](https://www.linkedin.com/in/yasmin-pereira-b4965b270/?skipRedirect=true)
 
 [![E-mail](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=3B82F6)](mailto:yasmorais.pereira@gmail.com)
